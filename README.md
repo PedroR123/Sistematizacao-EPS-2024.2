@@ -42,9 +42,9 @@ Clique em Carregar sem compactação.
 Selecione a pasta do repositório que contém o arquivo manifest.json.
 Usar a Extensão
 
-    Após carregar, você verá o ícone da extensão na barra de ferramentas do Chrome.
+Após carregar, você verá o ícone da extensão na barra de ferramentas do Chrome.
     Clique no ícone para abrir o bloco de notas e comece a adicionar suas notas!
 
-    Funcionalidades:
+Funcionalidades:
         Adicionar, visualizar e excluir notas.
         Armazenamento local das notas.
